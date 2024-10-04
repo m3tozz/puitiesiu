@@ -8,10 +8,3 @@ run:
 clean:
 	rm mnoutput
 	rm system
-
-2:
-	nasm -f bin demo.asm -o demo 
-	qemu-system-x86_64 demo
-
-clean2:
-	rm demo
