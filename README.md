@@ -1,2 +1,2 @@
 # puitiesiu
-puitiesiu embedded system
+puitiesiu basic embedded system
