@@ -12,13 +12,13 @@ git clone --depth 1 https://github.com/YILDIRIMT/puitiesiu.git && cd puitiesiu &
 
 <details>
 <summary>Install Manual</summary>
-<code>git clone https://github.com/YILDIRIMT/puitiesiu</code>
-<code>cd puitiesiu</code>
-<code>cd src</code>
-<code>cd boot</code>
-<code>make</code>
-<code>cd ..</code>
-<code>cd main</code>
+<code>git clone https://github.com/YILDIRIMT/puitiesiu</code><br>
+<code>cd puitiesiu</code><br>
+<code>cd src</code><br>
+<code>cd boot</code><br>
+<code>make</code><br>
+<code>cd ..</code><br>
+<code>cd main</code><br>
 <code>make</code>
 </details>
 
